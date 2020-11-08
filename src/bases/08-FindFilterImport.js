@@ -11,17 +11,17 @@ import heroes from '../data/heroes';
   });
 } */
 
-const companies = 'Marvel';
-const ids = 4;
+/* const companies = 'Marvel';
+const ids = 4; */
 
-const getHeroeById = (id) => {
+export const getHeroeById = (id) => {
   return heroes.find( (heroe) => heroe.id === id);
 }
 
-console.log(getHeroeById(ids));
+/* console.log(getHeroeById(ids)); */
 
-const getHeroesByOwner = ( owner ) => {
+export const getHeroesByOwner = ( owner ) => {
   return heroes.filter( (heroe) => heroe.owner === owner)
 };
 
-console.log(getHeroesByOwner(companies));
+/* console.log(getHeroesByOwner(companies)); */
