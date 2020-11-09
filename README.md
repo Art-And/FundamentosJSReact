@@ -1,5 +1,5 @@
-# Practicas para React Developer 🔭
-_Este repositorio es creado para almacenar  registros de mejora durante mis cursos, poco a poco ire actualizando conforme vaya avanzando en mi desarrollo profesional._
+# Fundamentos de JavaScript para React🔭
+_Este repositorio es creado para almacenar  registros de mis cursos, en este caso una pequeña muestra de JS para React._
 
 ## Gracias por ver 🤝
 
